@@ -349,7 +349,7 @@ MIT
 
 ## 👨‍💻 Author
 
-Your Name
+Umar Younas
 
 ## 🤝 Contributing
 
